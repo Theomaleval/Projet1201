@@ -1,4 +1,4 @@
-package Correction-boucles
+package Correction-boucles;
 
 import java.util.Scanner;
 
